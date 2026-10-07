@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(135deg, #2d2f31, #000035);
+    color: #f1f1f1;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 60px;
+}
+
+input, button {
+    padding: 10px;
+    font-size: 16px;
+    margin: 5px;
+}
+
+button {
+    background: #3b4cca;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#resultado {
+    display: block;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+nav {
+    margin-top: 40px;
+}
+
+nav a {
+    color: #8fa8ff;
+    margin: 0 10px;
+}
